@@ -27,7 +27,7 @@ body {
 }
 
 .home {
-  background-image: url("C:/Users/nicho/VisualStudioCode/learning/frontend/alura_plus/assets/background.png");
+  background-image: url("https://raw.githubusercontent.com/kopaking/portfolio/main/alura_plus/assets/background.png");
   background-repeat: no-repeat;
   background-size: contain;
   align-items: center;
